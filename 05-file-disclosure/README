@@ -1,0 +1,5 @@
+This directory contains testcases to include local files
+from disk into an attacker-controlled office document.
+
+- draw-image.odt: /boot/grub/.background_cache.png
+- section-source.odt: /etc/passwd

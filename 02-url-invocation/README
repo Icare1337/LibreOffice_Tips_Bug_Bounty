@@ -1,0 +1,3 @@
+This directory contains testcases for "tracking pixels"
+in office documents, in order to silently, without the
+user noticing, invoke a connection to evil.com:8080.

