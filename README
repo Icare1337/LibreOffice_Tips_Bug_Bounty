@@ -1,5 +1,6 @@
-This directory contains a test suite of malicious OOXML
-and ODF documents files which can be used by developers
-in order to test their software for vulnerabilties.
+This directory contains a test suite of malicious OOXML.
+and ODF documents files which can be in order to test their software for vulnerabilties.
 Source https://github.com/RUB-NDS/Office-Security
 
+And some that i found will be useful (Bug Bounty Pentest)
+CVE-2023-2255
