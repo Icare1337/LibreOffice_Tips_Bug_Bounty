@@ -2,6 +2,8 @@ This directory contains a test suite of malicious OOXML.
 and ODF documents files which can be in order to test their software for vulnerabilties.
 Source https://github.com/RUB-NDS/Office-Security
 
+CVE-2023-6185 RCE Gstreamer pipeline injection found by Reginaldo Silva 
+
 And some that i found will be useful (Bug Bounty Pentest)
 CVE-2023-2255  RCE & load of external ressources
 CVE-2024-3044  Graphic on-click binding allows unchecked script execution
