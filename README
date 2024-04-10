@@ -3,4 +3,5 @@ and ODF documents files which can be in order to test their software for vulnera
 Source https://github.com/RUB-NDS/Office-Security
 
 And some that i found will be useful (Bug Bounty Pentest)
-CVE-2023-2255
+CVE-2023-2255  RCE & load of external ressources
+CVE-2024-3044  Graphic on-click binding allows unchecked script execution
